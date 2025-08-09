@@ -1,3 +1,3 @@
-# kiko-client (記心-クライアント)
+# kiko-client (記心-クライエント)
 
 記心 (Kiko) is a reflective memory-based journal that guides one to cultivate a deep connection with oneself by rediscovering their past to enlighten their present.
